@@ -12,3 +12,7 @@ num2 = input ("Agora, digite outro número:")
 soma = int(num) + int(num2)
 
 print ("A soma dos dois números é", soma)
+
+
+## Exemplo de uso de input e junção de strings
+
